@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/dixitg/laundryandco/src -type f \\\\\\(-name *.tsx -o -name *.ts \\\\\\))",
+      "Bash(find /Users/dixitg/laundryandco/public -type f -exec ls -lh {})",
+      "Bash(2)",
+      "Read(//Users/dixitg/laundryandco/**)",
+      "Bash(sort -k2)",
+      "Bash(git init:*)"
+    ]
+  }
+}

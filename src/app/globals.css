@@ -1,0 +1,70 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Brand palette — matches Launderette NYC reference */
+  --color-brand-beige: #f5f0e8;
+  --color-brand-dark-beige: #ede5d0;
+  --color-brand-blue: #235892;
+  --color-brand-dark-blue: #1a3f6e;
+  --color-brand-medium-blue: #2d6db5;
+
+  --font-sans: 'Inter Variable', ui-sans-serif, system-ui, sans-serif;
+
+  --aspect-service-portrait: 3/4;
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply bg-neutral-100 text-gray-900;
+  }
+
+  :focus-visible {
+    outline: 2px solid #235892;
+    outline-offset: 2px;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@layer utilities {
+  .animate-fadeIn {
+    animation: fadeIn 0.3s ease-out;
+  }
+
+  .container-page {
+    @apply mx-auto w-full max-w-screen-xl px-4 sm:px-6 lg:px-12;
+  }
+
+  .section-padding {
+    @apply py-10 md:py-20;
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Hide scrollbar on horizontal scroll rows */
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}

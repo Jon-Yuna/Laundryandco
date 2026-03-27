@@ -1,0 +1,32 @@
+{
+  "Comment": "Security headers for Laundry & Co static site",
+  "Name": "LaundryAndCo-SecurityHeaders",
+  "SecurityHeadersConfig": {
+    "ContentSecurityPolicy": {
+      "ContentSecurityPolicy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://www.google-analytics.com; frame-ancestors 'none'",
+      "Override": true
+    },
+    "StrictTransportSecurity": {
+      "AccessControlMaxAgeSec": 63072000,
+      "IncludeSubdomains": true,
+      "Preload": true,
+      "Override": true
+    },
+    "ContentTypeOptions": {
+      "Override": true
+    },
+    "FrameOptions": {
+      "FrameOption": "DENY",
+      "Override": true
+    },
+    "ReferrerPolicy": {
+      "ReferrerPolicy": "strict-origin-when-cross-origin",
+      "Override": true
+    },
+    "XSSProtection": {
+      "ModeBlock": true,
+      "Override": true,
+      "Protection": true
+    }
+  }
+}
