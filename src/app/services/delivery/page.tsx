@@ -3,7 +3,7 @@ import { BreadcrumbJsonLd } from '@/components/seo/JsonLd'
 import { siteConfig } from '@/config/site'
 import CTA from '@/components/sections/CTA'
 import DeliveryFAQ from '@/components/sections/DeliveryFAQ'
-import PersonalizePlan from '@/components/sections/PersonalizePlan'
+// import PersonalizePlan from '@/components/sections/PersonalizePlan'
 
 export const metadata: Metadata = {
   title: 'Laundry Pickup & Delivery — Forest Hills, Queens',
