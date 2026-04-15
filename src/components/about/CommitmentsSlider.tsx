@@ -16,9 +16,9 @@ type Commitment = {
 
 const commitments: Commitment[] = [
   {
-    label: 'Organic Detergents',
-    title: 'We use organic and chemical-free detergents',
-    body: 'We take pride in using only organic, chemical-free detergents, ensuring the cleanest, healthiest results for your clothes and your skin. Every item we wash is treated with care, delivering not only the best freshness but also a commitment to your well-being.',
+    label: 'Premium Detergents',
+    title: 'We use the best soaps in the business',
+    body: 'We take pride in using only premium, top-quality detergents, ensuring the cleanest, freshest results for your clothes. Every item we wash is treated with care, delivering outstanding freshness and a commitment to your satisfaction.',
     image: '/about/detergent.jpg',
     icon: Leaf,
   },

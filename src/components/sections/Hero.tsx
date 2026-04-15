@@ -25,7 +25,7 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-20 flex w-full max-w-screen-xl flex-col gap-4">
         <h1 className="max-w-3xl text-4xl font-black uppercase leading-tight text-brand-beige md:text-6xl">
-          Enjoy 30% Off Your First Delivery Order
+          Pick Up &amp;<br />Drop Off
         </h1>
         <p className="max-w-lg text-lg leading-tight text-white">
           Fast, reliable pickup and delivery service — freshly cleaned laundry brought straight to
@@ -38,7 +38,7 @@ export default function Hero() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-full bg-white px-7 py-3.5 text-base font-black uppercase tracking-widest text-brand-dark-blue shadow-lg transition-all hover:bg-brand-beige hover:scale-105 md:px-9 md:py-4 md:text-lg"
           >
-            <span>Order Now</span>
+            <span>Book Now</span>
             <ArrowRight className="h-5 w-5 md:h-6 md:w-6" />
           </a>
         </div>

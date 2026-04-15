@@ -58,7 +58,27 @@ export default function DeliveryPage() {
         </div>
       </section>
 
-      <PersonalizePlan />
+      {/* TODO: Re-enable when memberships are ready */}
+      {/* <PersonalizePlan /> */}
+
+      {/* Schedule delivery CTA */}
+      <div className="px-4 md:px-12 bg-white py-10 md:py-16">
+      <section className="py-20 md:py-28 bg-brand-dark-blue rounded-2xl max-w-screen-xl mx-auto px-4 md:px-12">
+        <div className="w-full flex flex-col items-center gap-6">
+          <h2 className="text-lg md:text-4xl font-black text-white text-center">
+            Schedule Your Delivery Online
+          </h2>
+          <a
+            href={siteConfig.bookingUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="relative inline-flex items-center gap-2 rounded-full bg-white px-9 py-4 text-base font-black uppercase tracking-widest text-brand-dark-blue shadow-lg transition-all hover:bg-brand-beige hover:scale-105 md:text-lg animate-pulse-ring"
+          >
+            Book Now
+          </a>
+        </div>
+      </section>
+      </div>
 
       <DeliveryFAQ />
       <CTA />
