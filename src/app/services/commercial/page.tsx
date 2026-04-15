@@ -64,7 +64,7 @@ export default function CommercialPage() {
           {/* CTA button */}
           <div className="flex justify-center">
             <a
-              href="mailto:hello@laundryandco.nyc"
+              href="mailto:info@laundryandco.nyc"
               className="rounded-full bg-brand-dark-blue px-6 py-2.5 font-bold text-brand-beige hover:bg-brand-blue transition-colors"
             >
               Inquire now

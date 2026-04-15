@@ -6,7 +6,7 @@ export const siteConfig = {
   url: 'https://www.laundryandco.nyc',
   bookingUrl: 'https://app.trycents.com/order/business/OWMw/Ym04',
   phone: '+1 (718) 704-7808',
-  email: 'hello@laundryandco.nyc',
+  email: 'info@laundryandco.nyc',
   address: {
     street: '73-12 Austin Street',
     city: 'Queens',
