@@ -40,9 +40,10 @@ export default function SelfServicePage() {
               <div className="flex flex-col gap-1">
                 <h4 className="font-black text-2xl">Pricing</h4>
                 <div className="flex flex-col gap-1 mt-3">
-                  <PriceRow label="Medium Load (25 lbs)" price="$3.50" />
-                  <PriceRow label="Large Load (45 lbs)" price="$6.50" />
-                  <PriceRow label="X-Large Load (83 lbs)" price="$10.00" />
+                  <PriceRow label="Small Load (20 lbs)" price="$3.75" />
+                  <PriceRow label="Medium Load (30 lbs)" price="$5.75" />
+                  <PriceRow label="Large Load (40 lbs)" price="$6.75" />
+                  <PriceRow label="Jumbo Load (60 lbs)" price="$8.25" />
                 </div>
               </div>
             </div>
@@ -55,8 +56,7 @@ export default function SelfServicePage() {
               <div className="flex flex-col gap-1">
                 <h4 className="font-black text-2xl">Pricing</h4>
                 <div className="flex flex-col gap-1 mt-3">
-                  <PriceRow label="Large Dryer (50 lbs)" price="$1.00/10 minutes" />
-                  <PriceRow label="X-Large Dryer (83 lbs)" price="$1.75/10 minutes" />
+                  <PriceRow label="Dryer (30 lbs)" price="$0.35/8 minutes" />
                 </div>
               </div>
             </div>
