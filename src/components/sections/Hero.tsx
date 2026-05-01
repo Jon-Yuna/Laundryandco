@@ -28,7 +28,7 @@ export default function Hero() {
           Pick Up &amp;<br />Drop Off
         </h1>
         <p className="max-w-lg text-lg leading-tight text-white">
-          Fast, reliable pickup and delivery service — freshly cleaned laundry brought straight to
+          Fast, reliable pickup and delivery service. Freshly cleaned laundry brought straight to
           your door in Forest Hills, Queens.
         </p>
         <div className="pt-4">

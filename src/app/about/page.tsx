@@ -6,9 +6,9 @@ import CTA from '@/components/sections/CTA'
 import { BreadcrumbJsonLd } from '@/components/seo/JsonLd'
 
 export const metadata: Metadata = {
-  title: 'About Us — Forest Hills, Queens',
+  title: 'About Us in Forest Hills, Queens',
   description:
-    'Learn the story behind Laundry & Co — Forest Hills, Queens. Our mission, commitments to eco-friendly cleaning, and dedication to the community.',
+    'Learn the story behind Laundry & Co in Forest Hills, Queens. Our mission, commitments to eco-friendly cleaning, and dedication to the community.',
   alternates: { canonical: `${siteConfig.url}/about` },
 }
 
@@ -45,7 +45,7 @@ export default function AboutPage() {
               At Laundry &amp; Co, we believe laundry should be simple, stress-free, and accessible
               to everyone in Forest Hills and across Queens. Founded with a mission to transform how
               New Yorkers handle this everyday task, we set out to create more than just a
-              laundry service — we built a community staple where convenience meets genuine care.
+              laundry service. We built a community staple where convenience meets genuine care.
             </p>
             <p>
               It all started with a vision: combine eco-friendly practices, professional expertise,
@@ -55,7 +55,7 @@ export default function AboutPage() {
             </p>
             <p>
               What truly sets us apart is our commitment to care. Every load is treated with the
-              utmost attention using organic, non-toxic detergents — protecting both your clothes
+              utmost attention using organic, non-toxic detergents, protecting both your clothes
               and the environment. We go beyond clean laundry; we provide a better experience and a
               positive impact on our community.
             </p>
@@ -92,7 +92,7 @@ export default function AboutPage() {
             <p className="max-w-[700px] flex-1 shrink-0 pt-1.5 text-sm leading-relaxed text-brand-dark-blue md:text-center md:text-base">
               Laundry &amp; Co is proud to serve and give back to the Forest Hills and Queens
               community. We partner with local organizations to help deliver essential services to
-              families with limited resources — including free laundry assistance days and
+              families with limited resources, including free laundry assistance days and
               neighborhood outreach events.
             </p>
             <p className="max-w-[700px] flex-1 shrink-0 pt-1.5 text-sm leading-relaxed text-brand-dark-blue md:text-center md:text-base">
@@ -109,7 +109,7 @@ export default function AboutPage() {
             <p className="flex-1 shrink-0 pt-1.5 text-lg leading-relaxed text-brand-dark-blue">
               Sustainability is at the heart of everything we do. From our energy-efficient
               equipment that uses significantly less water and power, to our chemical-free detergents
-              and biodegradable packaging — we&apos;re committed to making Forest Hills and Queens
+              and biodegradable packaging. We&apos;re committed to making Forest Hills and Queens
               a cleaner, greener place, one load at a time.
             </p>
           </div>

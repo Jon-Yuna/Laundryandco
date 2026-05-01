@@ -10,7 +10,7 @@ const faqs = [
   },
   {
     q: 'Is there a minimum for the Wash Dry Fold service?',
-    a: 'Yes — there is a 15 lb minimum for Wash Dry Fold orders. There is no minimum for the Wash Dry Bag service.',
+    a: 'Yes, there is a 15 lb minimum for Wash Dry Fold orders. There is no minimum for the Wash Dry Bag service.',
   },
   {
     q: 'How long does it take?',
@@ -30,7 +30,7 @@ const faqs = [
   },
   {
     q: 'Do I need an appointment to drop off?',
-    a: 'No appointment is needed — just walk in during our business hours at 73-12 Austin Street, Queens, New York 11375. Our team will check you in and get your order started right away.',
+    a: 'No appointment is needed. Just walk in during our business hours at 73-12 Austin Street, Queens, New York 11375. Our team will check you in and get your order started right away.',
   },
 ]
 

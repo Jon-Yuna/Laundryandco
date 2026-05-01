@@ -5,7 +5,7 @@ import { siteConfig } from '@/config/site'
 export const metadata: Metadata = {
   title: 'FAQs | Laundry & Co',
   description:
-    'Answers to the most common questions about Laundry & Co — pickup & delivery, drop-off, self-service, pricing, detergents, and more. Serving Forest Hills and Queens, NY.',
+    'Answers to the most common questions about Laundry & Co: pickup & delivery, drop-off, self-service, pricing, detergents, and more. Serving Forest Hills and Queens, NY.',
   alternates: { canonical: 'https://www.laundryandco.nyc/faqs' },
 }
 
@@ -16,11 +16,11 @@ const faqs = [
   },
   {
     q: 'How does the pickup and delivery process work?',
-    a: 'Simply book a pickup through our website or app. We\'ll collect your laundry at your door, wash and fold it at our Forest Hills facility, and return it clean and neatly packaged — typically within 24 to 48 hours. You\'ll receive real-time updates throughout the process.',
+    a: 'Simply book a pickup through our website or app. We\'ll collect your laundry at your door, wash and fold it at our Forest Hills facility, and return it clean and neatly packaged, typically within 24 to 48 hours. You\'ll receive real-time updates throughout the process.',
   },
   {
     q: 'What detergent do you use?',
-    a: 'We use organic, hypoallergenic, and unscented detergents by default — gentle on skin and free from harsh chemicals. We also include eco-friendly wool dryer balls in place of dryer sheets. If you have a preferred detergent or specific sensitivities, let us know when booking.',
+    a: 'We use organic, hypoallergenic, and unscented detergents by default, gentle on skin and free from harsh chemicals. We also include eco-friendly wool dryer balls in place of dryer sheets. If you have a preferred detergent or specific sensitivities, let us know when booking.',
   },
   {
     q: 'Is there a minimum weight for pickup and delivery orders?',
@@ -28,7 +28,7 @@ const faqs = [
   },
   {
     q: 'Can I request specific wash and dry settings?',
-    a: 'Absolutely. We offer full flexibility — you can specify your preferred wash temperature, dry temperature, and any special care instructions when placing your order. Our team will follow your preferences for every load.',
+    a: 'Absolutely. We offer full flexibility. You can specify your preferred wash temperature, dry temperature, and any special care instructions when placing your order. Our team will follow your preferences for every load.',
   },
   {
     q: 'How long does it take to get my laundry back?',
@@ -44,7 +44,7 @@ const faqs = [
   },
   {
     q: 'Do you offer commercial or business laundry services?',
-    a: 'Yes — we work with local businesses, restaurants, salons, gyms, and other organizations that require regular, high-volume laundry. Contact us to discuss a custom commercial plan that fits your needs and schedule.',
+    a: 'Yes, we work with local businesses, restaurants, salons, gyms, and other organizations that require regular, high-volume laundry. Contact us to discuss a custom commercial plan that fits your needs and schedule.',
   },
   {
     q: 'Where are you located and what are your hours?',

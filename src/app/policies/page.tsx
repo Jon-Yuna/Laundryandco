@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'Policies | Laundry & Co',
   description:
-    'Read the terms of service and company policies for Laundry & Co in Forest Hills, Queens — including liability, pocket policy, stain treatment, and refunds.',
+    'Read the terms of service and company policies for Laundry & Co in Forest Hills, Queens, including liability, pocket policy, stain treatment, and refunds.',
   alternates: { canonical: 'https://www.laundryandco.nyc/policies' },
 }
 

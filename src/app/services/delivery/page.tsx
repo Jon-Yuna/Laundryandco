@@ -6,9 +6,9 @@ import DeliveryFAQ from '@/components/sections/DeliveryFAQ'
 // import PersonalizePlan from '@/components/sections/PersonalizePlan'
 
 export const metadata: Metadata = {
-  title: 'Laundry Pickup & Delivery — Forest Hills, Queens',
+  title: 'Laundry Pickup & Delivery in Forest Hills, Queens',
   description:
-    'Laundry pickup & delivery in Forest Hills, Queens. Schedule a free pickup, we wash & fold, and deliver back to your door — next day.',
+    'Laundry pickup & delivery in Forest Hills, Queens. Schedule a free pickup, we wash & fold, and deliver back to your door the next day.',
   alternates: { canonical: 'https://www.laundryandco.nyc/services/delivery' },
 }
 
@@ -41,7 +41,7 @@ export default function DeliveryPage() {
               },
               {
                 title: 'Get your laundry next-day*',
-                desc: 'Your laundry is delivered straight to your doorstep — clean, folded, and fresh. We guarantee delivery within 48 hours, with express options available.',
+                desc: 'Your laundry is delivered straight to your doorstep, clean, folded, and fresh. We guarantee delivery within 48 hours, with express options available.',
                 img: '/delivery/next.jpg',
               },
             ].map(({ title, desc, img }) => (

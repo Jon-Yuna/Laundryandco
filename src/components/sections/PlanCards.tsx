@@ -108,7 +108,7 @@ export default function PlanCards({ plan, onSelect }: Props) {
         </div>
       </div>
 
-      {/* Subscribe button — desktop only */}
+      {/* Subscribe button: desktop only */}
       <div className="hidden md:flex justify-center">
         <Link
           href="/contact"

@@ -21,7 +21,7 @@ const testimonials = [
   {
     heading: 'Efficiency',
     quote:
-      "Got four loads back in under 24 hours, perfectly clean. The speed and effectiveness are unmatched — perfect for anyone with a busy schedule.",
+      "Got four loads back in under 24 hours, perfectly clean. The speed and effectiveness are unmatched, perfect for anyone with a busy schedule.",
     name: 'Shelby B.',
     location: 'Kew Gardens, NY',
     avatar: '/testimonials/8.jpg',
@@ -62,7 +62,7 @@ export default function Testimonials() {
               <h3 className="text-lg font-bold">{heading}</h3>
               <p className="flex-1 leading-relaxed">&ldquo;{quote}&rdquo;</p>
               <div className="flex items-center gap-4">
-                {/* Avatar — shows placeholder circle if image missing */}
+                {/* Avatar: shows placeholder circle if image missing */}
                 <div className="relative h-14 w-14 flex-shrink-0 overflow-hidden rounded-full bg-brand-blue/20">
                   <Image
                     src={avatar}

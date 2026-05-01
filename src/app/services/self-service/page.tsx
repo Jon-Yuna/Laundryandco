@@ -9,7 +9,7 @@ import ServiceMenuSection from '@/components/services/ServiceMenuSection'
 import LocationSection from '@/components/services/LocationSection'
 
 export const metadata: Metadata = {
-  title: 'Self-Service Laundromat — Forest Hills, Queens',
+  title: 'Self-Service Laundromat in Forest Hills, Queens',
   description:
     'Self-service laundromat in Forest Hills, Queens. State-of-the-art machines, a spotless space, and everything you need for a great laundry experience.',
   alternates: { canonical: 'https://www.laundryandco.nyc/services/self-service' },

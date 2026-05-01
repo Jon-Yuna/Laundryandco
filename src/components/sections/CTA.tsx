@@ -9,7 +9,7 @@ export default function CTA() {
           Ready for Fresh, Clean Laundry?
         </h2>
         <p className="max-w-xl text-lg text-brand-beige/80">
-          Schedule your first pickup today. We&apos;ll handle the rest — so you can focus on what
+          Schedule your first pickup today. We&apos;ll handle the rest, so you can focus on what
           matters most.
         </p>
         <div className="flex flex-col items-center gap-4 sm:flex-row">

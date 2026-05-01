@@ -10,7 +10,7 @@ const faqs = [
   },
   {
     q: 'How does the subscription service work?',
-    a: 'With Laundry & Co\'s subscription, you choose how many bags per month you need — 1, 2, or 4 bags. Each bag holds approximately 40 lbs of laundry. You schedule your pickup and delivery dates through our platform, and we handle the rest: pickup, wash, fold, and return to your door.',
+    a: 'With Laundry & Co\'s subscription, you choose how many bags per month you need: 1, 2, or 4 bags. Each bag holds approximately 40 lbs of laundry. You schedule your pickup and delivery dates through our platform, and we handle the rest: pickup, wash, fold, and return to your door.',
   },
   {
     q: 'Can I change or cancel my subscription?',
@@ -18,7 +18,7 @@ const faqs = [
   },
   {
     q: 'What happens if I miss a scheduled pickup?',
-    a: 'No worries — life happens. If you miss a scheduled pickup, contact us as soon as possible and we\'ll do our best to reschedule at a convenient time. Missed pickups do not count against your monthly bag allowance as long as you notify us in advance.',
+    a: 'No worries, life happens. If you miss a scheduled pickup, contact us as soon as possible and we\'ll do our best to reschedule at a convenient time. Missed pickups do not count against your monthly bag allowance as long as you notify us in advance.',
   },
   {
     q: 'Is there a limit to how much laundry I can include in the bag?',
@@ -30,7 +30,7 @@ const faqs = [
   },
   {
     q: 'Are there any promotions for first-time customers?',
-    a: 'Yes! Laundry & Co offers a first-month promotion for new subscribers. Reach out to us or sign up online to see the latest offer — we love welcoming new members to the Clean Club.',
+    a: 'Yes! Laundry & Co offers a first-month promotion for new subscribers. Reach out to us or sign up online to see the latest offer. We love welcoming new members to the Clean Club.',
   },
 ]
 

@@ -8,9 +8,9 @@ import ServicePageHero from '@/components/services/ServicePageHero'
 import LocationSection from '@/components/services/LocationSection'
 
 export const metadata: Metadata = {
-  title: 'Drop-Off Laundry Service — Forest Hills, Queens',
+  title: 'Drop-Off Laundry Service in Forest Hills, Queens',
   description:
-    'Drop off your laundry at Laundry & Co in Forest Hills, Queens. Wash Dry Fold or Wash Dry Bag — same-day, next-day, and express options available.',
+    'Drop off your laundry at Laundry & Co in Forest Hills, Queens. Wash Dry Fold or Wash Dry Bag with same-day, next-day, and express options available.',
   alternates: { canonical: 'https://www.laundryandco.nyc/services/drop-off' },
 }
 

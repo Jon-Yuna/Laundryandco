@@ -168,7 +168,7 @@ export function LocalBusinessJsonLd() {
         name: 'How does the pickup and delivery process work?',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'Simply book a pickup through our website or app. We collect your laundry at your door, wash and fold it at our Forest Hills facility, and return it clean and neatly packaged — typically within 24 to 48 hours.',
+          text: 'Simply book a pickup through our website or app. We collect your laundry at your door, wash and fold it at our Forest Hills facility, and return it clean and neatly packaged, typically within 24 to 48 hours.',
         },
       },
       {
@@ -176,7 +176,7 @@ export function LocalBusinessJsonLd() {
         name: 'What detergent do you use?',
         acceptedAnswer: {
           '@type': 'Answer',
-          text: 'We use organic, hypoallergenic, and unscented detergents by default — gentle on skin and free from harsh chemicals. We also include eco-friendly wool dryer balls in place of dryer sheets.',
+          text: 'We use organic, hypoallergenic, and unscented detergents by default, gentle on skin and free from harsh chemicals. We also include eco-friendly wool dryer balls in place of dryer sheets.',
         },
       },
       {

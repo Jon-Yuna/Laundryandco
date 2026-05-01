@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: siteConfig.url,
-    title: `${siteConfig.name} | Laundry Pickup & Delivery — Forest Hills, Queens`,
+    title: `${siteConfig.name} | Laundry Pickup & Delivery in Forest Hills, Queens`,
     description: siteConfig.description,
     siteName: siteConfig.name,
     images: [
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
         url: '/og-image.jpg',
         width: 1200,
         height: 630,
-        alt: `${siteConfig.name} — Laundry & Dry Cleaning in Forest Hills, Queens NYC`,
+        alt: `${siteConfig.name}: Laundry & Dry Cleaning in Forest Hills, Queens NYC`,
       },
     ],
   },
@@ -107,7 +107,7 @@ export const metadata: Metadata = {
     'geo.position': `${siteConfig.geo.latitude};${siteConfig.geo.longitude}`,
     'ICBM': `${siteConfig.geo.latitude}, ${siteConfig.geo.longitude}`,
     'mobile-web-app-capable': 'yes',
-    // place:location — valid OG extension for location data
+    // place:location: valid OG extension for location data
     'place:location:latitude': String(siteConfig.geo.latitude),
     'place:location:longitude': String(siteConfig.geo.longitude),
   },

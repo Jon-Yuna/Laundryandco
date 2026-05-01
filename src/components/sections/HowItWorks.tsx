@@ -24,7 +24,7 @@ export default function HowItWorks() {
     <section id="how-it-works" className="w-full px-4 py-10 md:px-12 md:py-20 bg-neutral-100">
       <div className="w-full max-w-screen-xl mx-auto flex flex-col items-center gap-10 md:flex-row">
 
-        {/* Left — video + label */}
+        {/* Left: video + label */}
         <div className="flex flex-1 flex-shrink-0 flex-col gap-6">
           <h2 className="w-full text-center text-2xl font-black uppercase leading-snug text-brand-dark-blue md:text-5xl">
             Getting Started with your first pickup
@@ -52,7 +52,7 @@ export default function HowItWorks() {
           </p>
         </div>
 
-        {/* Right — steps */}
+        {/* Right: steps */}
         <div className="flex flex-1 flex-shrink-0 flex-col gap-6">
           {steps.map(({ icon: Icon, text }, i) => (
             <div key={i} className="flex items-center gap-4">

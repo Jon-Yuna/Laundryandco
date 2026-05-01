@@ -9,7 +9,7 @@ export default function LocationSection() {
 
       <div className="w-full max-w-screen-xl mx-auto flex flex-col md:flex-row items-center gap-6 md:gap-20">
 
-        {/* Map placeholder — replace with <iframe> once embed URL is ready */}
+        {/* Map placeholder: replace with <iframe> once embed URL is ready */}
         <div className="w-full md:w-[40%] aspect-square overflow-hidden flex-shrink-0 relative border-black border-4 rounded-xl">
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.9966351341386!2d-73.84280522337582!3d40.71809057139272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c261cad524b15d%3A0xd3d1a23a6e5efda8!2sLaundry%20%26%20Co!5e0!3m2!1sen!2sin!4v1774089097033!5m2!1sen!2sin"

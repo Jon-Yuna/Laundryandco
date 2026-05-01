@@ -4,9 +4,9 @@ import { siteConfig } from '@/config/site'
 import CTA from '@/components/sections/CTA'
 
 export const metadata: Metadata = {
-  title: 'Commercial Laundry Services — Forest Hills, Queens',
+  title: 'Commercial Laundry Services in Forest Hills, Queens',
   description:
-    'Commercial laundry services in Forest Hills, Queens. Discounted pricing, custom packages, and flexible delivery — tailored to your business.',
+    'Commercial laundry services in Forest Hills, Queens. Discounted pricing, custom packages, and flexible delivery, tailored to your business.',
   alternates: { canonical: 'https://www.laundryandco.nyc/services/commercial' },
 }
 

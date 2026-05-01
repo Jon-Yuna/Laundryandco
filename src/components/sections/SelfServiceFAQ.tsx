@@ -10,19 +10,19 @@ const faqs = [
   },
   {
     q: 'What wash temperature should I use?',
-    a: 'Cold water is recommended for most everyday clothing and colors — it saves energy and is gentler on fabrics. Warm water works well for moderately soiled items, and hot water is best for whites, towels, and bedding. When in doubt, cold is the safest choice.',
+    a: 'Cold water is recommended for most everyday clothing and colors. It saves energy and is gentler on fabrics. Warm water works well for moderately soiled items, and hot water is best for whites, towels, and bedding. When in doubt, cold is the safest choice.',
   },
   {
     q: 'How long does a wash cycle take?',
-    a: 'Wash cycles typically run 28–45 minutes depending on the machine size and selected settings. Drying time varies based on load size and fabric type — allow 30–60 minutes for a full dry.',
+    a: 'Wash cycles typically run 28–45 minutes depending on the machine size and selected settings. Drying time varies based on load size and fabric type. Allow 30–60 minutes for a full dry.',
   },
   {
     q: 'What size machine do I need?',
-    a: 'A medium load machine (25 lbs) handles a standard household load — about 1–2 weeks of clothes for one person. A large machine (45 lbs) is great for families or larger loads. Our X-Large machines (83 lbs) are ideal for comforters, blankets, and bulky items.',
+    a: 'A medium load machine (25 lbs) handles a standard household load, about 1–2 weeks of clothes for one person. A large machine (45 lbs) is great for families or larger loads. Our X-Large machines (83 lbs) are ideal for comforters, blankets, and bulky items.',
   },
   {
     q: 'Can I wash comforters and large blankets?',
-    a: 'Yes — our X-Large machines (83 lbs capacity) are perfect for comforters, duvets, and large blankets that won\'t fit in a standard home washer. We recommend using a large or X-Large dryer to ensure they dry evenly.',
+    a: 'Yes, our X-Large machines (83 lbs capacity) are perfect for comforters, duvets, and large blankets that won\'t fit in a standard home washer. We recommend using a large or X-Large dryer to ensure they dry evenly.',
   },
   {
     q: 'Is the laundromat attendant staffed?',

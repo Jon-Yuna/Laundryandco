@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: 'Laundry & Co',
-  tagline: 'Premium Laundry & Dry Cleaning — Forest Hills, NYC',
+  tagline: 'Premium Laundry & Dry Cleaning in Forest Hills, NYC',
   description:
     'Professional laundry pickup and delivery service in Forest Hills, Queens, NYC. Wash & fold, dry cleaning, and ironing with free pickup. Serving Forest Hills, Rego Park, Kew Gardens, Woodhaven, and all of Queens. Book online today.',
   url: 'https://www.laundryandco.nyc',

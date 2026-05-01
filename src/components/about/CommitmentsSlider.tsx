@@ -25,7 +25,7 @@ const commitments: Commitment[] = [
   {
     label: 'Experienced Team',
     title: 'Professionally trained laundry experts',
-    body: 'Our team is trained to handle every fabric type with precision and care — from everyday essentials to delicate garments. Years of hands-on experience means your laundry is always in the right hands.',
+    body: 'Our team is trained to handle every fabric type with precision and care, from everyday essentials to delicate garments. Years of hands-on experience means your laundry is always in the right hands.',
     image: '/about/experienced.jpg',
     icon: Users,
   },
@@ -39,14 +39,14 @@ const commitments: Commitment[] = [
   {
     label: 'Laundry Facilities',
     title: 'Top-of-the-line machines and facilities',
-    body: 'Our facility in Forest Hills uses state-of-the-art washers and dryers that are regularly serviced. Superior equipment means superior results — cleaner clothes, faster turnaround, and less wear on your fabrics.',
+    body: 'Our facility in Forest Hills uses state-of-the-art washers and dryers that are regularly serviced. Superior equipment means superior results: cleaner clothes, faster turnaround, and less wear on your fabrics.',
     image: '/about/store.jpg',
     icon: WashingMachine,
   },
   {
     label: 'Quality Experience',
     title: 'A full-service quality experience',
-    body: "From the moment you schedule a pickup to the delivery of your fresh laundry, every touchpoint is designed to be seamless, reliable, and delightful. We don't just clean clothes — we deliver peace of mind.",
+    body: "From the moment you schedule a pickup to the delivery of your fresh laundry, every touchpoint is designed to be seamless, reliable, and delightful. We don't just clean clothes. We deliver peace of mind.",
     image: '/about/quality.jpg',
     icon: Star,
   },
