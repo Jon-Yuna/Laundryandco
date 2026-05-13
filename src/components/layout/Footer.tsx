@@ -5,7 +5,6 @@ import { siteConfig } from '@/config/site'
 const footerLinks = {
   Company: [
     { label: 'About Us', href: '/about' },
-    { label: 'Policies', href: '/policies' },
     { label: "FAQ's", href: '/faqs' },
   ],
   Services: [
@@ -13,6 +12,10 @@ const footerLinks = {
     { label: 'Drop Off', href: '/services/drop-off' },
     { label: 'Self Service', href: '/services/self-service' },
     { label: 'Commercial', href: '/services/commercial' },
+  ],
+  Legal: [
+    { label: 'Privacy Policy', href: '/privacy-policy' },
+    { label: 'Terms of Service', href: '/terms-of-service' },
   ],
 }
 
